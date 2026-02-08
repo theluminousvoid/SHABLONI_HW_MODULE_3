@@ -1,6 +1,6 @@
 //TIP Чтобы <b>запустить</b> код, нажмите <shortcut actionId="Run"/> или
 // нажмите на значок <icon src="AllIcons.Actions.Execute"/> на полях.
-public class Main {
+public class First {
     public static void main(String[] args) {
         Order order1 = new Order("NAme", 20, 30000);
         Calculate calc1 = new Calculate();
